@@ -30,7 +30,7 @@ Figma, CSS e HTML5
 ## Pastas
 * Pasta PDF: Wireframes em PDF para Desktop
 * Pasta PDF(M): Wirframes em PDF para Mobile
-* Pasta Code HTML: Pasta com o codigo fonte do Front-end
+* Pasta Code front end : Pasta com o codigo fonte do Front-end
 
 
 ## Video explicativo
