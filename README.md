@@ -13,24 +13,24 @@ boa usabilidade em dispositivos móveis
 
 
 ### Requisitos
-Ser reponsivo para dispositivos móveis
-Seguir boas práticas de arquitetura de informação na construção das interfaces
-Possuir, no mínimo, três interfaces acessíveis a partir de algum mecanismo de navegação
-Possuir um esquema de cores e layout único com relação aos demais sistemas desenvolvidos pelos seus colegas de turma
-Fazer uso de arquivo de fonte externa
-Conter ao menos uma imagem ou logotipo que seja único e que contribua para dar uma identidade visual ao mesmo
-Deverá ser desenvolvido utilizando-se HTML 5
-Deverá ser desenvolvido utilizando-se CSS 3, com no mínimo 5 regras criadas sem a utilização de frameworks
-O sistema deverá fazer uso de pelo menos um framework de CSS 3 para estilizar a aplicação
+* Ser reponsivo para dispositivos móveis
+* Seguir boas práticas de arquitetura de informação na construção das interfaces
+* Possuir, no mínimo, três interfaces acessíveis a partir de algum mecanismo de navegação
+* Possuir um esquema de cores e layout único com relação aos demais sistemas desenvolvidos pelos seus colegas de turma
+* Fazer uso de arquivo de fonte externa
+* Conter ao menos uma imagem ou logotipo que seja único e que contribua para dar uma identidade visual ao mesmo
+* Deverá ser desenvolvido utilizando-se HTML 5
+* Deverá ser desenvolvido utilizando-se CSS 3, com no mínimo 5 regras criadas sem a utilização de frameworks
+* O sistema deverá fazer uso de pelo menos um framework de CSS 3 para estilizar a aplicação
 
 
 ## Ferramentas ultilizadas
 Figma, CSS e HTML5
 
 ## Pastas
-Pasta PDF: Wireframes em PDF para Desktop
-Pasta PDF(M): Wirframes em PDF para Mobile
-Pasta Code HTML: Pasta com o codigo fonte do Front-end
+* Pasta PDF: Wireframes em PDF para Desktop
+* Pasta PDF(M): Wirframes em PDF para Mobile
+* Pasta Code HTML: Pasta com o codigo fonte do Front-end
 
 
 ## Video explicativo
