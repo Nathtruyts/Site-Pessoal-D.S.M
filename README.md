@@ -1,88 +1,44 @@
-# Project Title
 
-One Paragraph of project description goes here
+# Pagina pessoal
 
-## Getting Started
+Desenvolvimento de Software Multiplataforma
+Disciplina: Design Digital
+Prof°. Fabrício Galende Marques de Carvalho
+Fatec Prof Jessen Vidal - São José dos Campos - DSM
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+## Descrição
+Site pessoal com informações sobre o Aluno e alguns conteudos didáticos com 
+boa usabilidade em dispositivos móveis
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
+### Requisitos
+Ser reponsivo para dispositivos móveis
+Seguir boas práticas de arquitetura de informação na construção das interfaces
+Possuir, no mínimo, três interfaces acessíveis a partir de algum mecanismo de navegação
+Possuir um esquema de cores e layout único com relação aos demais sistemas desenvolvidos pelos seus colegas de turma
+Fazer uso de arquivo de fonte externa
+Conter ao menos uma imagem ou logotipo que seja único e que contribua para dar uma identidade visual ao mesmo
+Deverá ser desenvolvido utilizando-se HTML 5
+Deverá ser desenvolvido utilizando-se CSS 3, com no mínimo 5 regras criadas sem a utilização de frameworks
+O sistema deverá fazer uso de pelo menos um framework de CSS 3 para estilizar a aplicação
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
+## Ferramentas ultilizadas
+Figma, CSS e HTML5
 
-Say what the step will be
+## Pastas
+Pasta PDF: Wireframes em PDF para Desktop
+Pasta PDF(M): Wirframes em PDF para Mobile
+Pasta Code HTML: Pasta com o codigo fonte do Front-end
 
-```
-Give the example
-```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Video explicativo
+Link para um vídeo explicativo do wireframe:
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Nathan da Motta Truyts** - *Trabalho incial* - Github
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
