@@ -33,7 +33,7 @@ Figma, CSS e HTML5
 
 
 ## Video explicativo
-Link para um vídeo explicativo do wireframe:
+Link para um vídeo explicativo do wireframe:https://www.youtube.com/watch?v=pzv46aH3WGo
 
 ## Authors
 
