@@ -30,7 +30,7 @@ Figma, CSS e HTML5
 ## Pastas
 * Pasta PDF: Wireframes em PDF para Desktop(arquivo adicional da 4° tela(pdf Hobby)).
 * Pasta Code front end : Pasta com o codigo fonte do Front-end
-
+* Arquivo : wireframe no formato .fig
 
 ## Video explicativo
 Link para um vídeo explicativo do wireframe:https://www.youtube.com/watch?v=pzv46aH3WGo
