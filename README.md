@@ -28,7 +28,7 @@ boa usabilidade em dispositivos móveis
 Figma, CSS e HTML5
 
 ## Pastas
-* Pasta PDF: Wireframes em PDF para Desktop
+* Pasta PDF: Wireframes em PDF para Desktop(arquivo adicional da 4° tela(pdf Hobby)).
 * Pasta Code front end : Pasta com o codigo fonte do Front-end
 
 
