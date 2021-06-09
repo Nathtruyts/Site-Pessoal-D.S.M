@@ -37,5 +37,10 @@ Link para um vídeo explicativo do site:https://www.youtube.com/watch?v=pzv46aH3
 
 * **Nathan da Motta Truyts** - *Trabalho incial* - Github
 
+#### Atualização ver 2.0
+* Pastas com códigos antigos foram apagados e trocado pela pasta /src, com o novo código fonte
+
+* Layout foi modernizado, mantendo o esquema de cores e o design original do wireframe
+
 
 
