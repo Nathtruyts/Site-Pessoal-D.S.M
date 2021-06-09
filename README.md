@@ -13,27 +13,25 @@ boa usabilidade em dispositivos móveis
 
 
 ### Requisitos
-* Ser reponsivo para dispositivos móveis
-* Seguir boas práticas de arquitetura de informação na construção das interfaces
-* Possuir, no mínimo, três interfaces acessíveis a partir de algum mecanismo de navegação
-* Possuir um esquema de cores e layout único com relação aos demais sistemas desenvolvidos pelos seus colegas de turma
-* Fazer uso de arquivo de fonte externa
-* Conter ao menos uma imagem ou logotipo que seja único e que contribua para dar uma identidade visual ao mesmo
-* Deverá ser desenvolvido utilizando-se HTML 5
-* Deverá ser desenvolvido utilizando-se CSS 3, com no mínimo 5 regras criadas sem a utilização de frameworks
-* O sistema deverá fazer uso de pelo menos um framework de CSS 3 para estilizar a aplicação
+[x]Ser reponsivo para dispositivos móveis
+[x]Seguir boas práticas de arquitetura de informação na construção das interfaces
+[x]Possuir, no mínimo, três interfaces acessíveis a partir de algum mecanismo de navegação
+[x]Possuir um esquema de cores e layout único com relação aos demais sistemas desenvolvidos pelos seus colegas de turma
+[x]Fazer uso de arquivo de fonte externa
+[x]Conter ao menos uma imagem ou logotipo que seja único e que contribua para dar uma identidade visual ao mesmo
+[x]Deverá ser desenvolvido utilizando-se HTML 5
+[x]Deverá ser desenvolvido utilizando-se CSS 3, com no mínimo 5 regras criadas sem a utilização de frameworks
+[x]O sistema deverá fazer uso de pelo menos um framework de CSS 3 para estilizar a aplicação
 
 
 ## Ferramentas ultilizadas
 Figma, CSS e HTML5
 
 ## Pastas
-* Pasta PDF: Wireframes em PDF para Desktop(arquivo adicional da 4° tela(pdf Hobby)).
-* Pasta Code front end : Pasta com o codigo fonte do Front-end
-* Arquivo : wireframe no formato .fig
+* Pasta src/: arquvivos contendo todo o código fonte
 
 ## Video explicativo
-Link para um vídeo explicativo do wireframe:https://www.youtube.com/watch?v=pzv46aH3WGo
+Link para um vídeo explicativo do site:https://www.youtube.com/watch?v=pzv46aH3WGo
 
 ## Authors
 
