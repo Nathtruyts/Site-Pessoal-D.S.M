@@ -42,5 +42,7 @@ Link para um vídeo explicativo do site:https://www.youtube.com/watch?v=pzv46aH3
 
 * Layout foi modernizado, mantendo o esquema de cores e o design original do wireframe
 
+*simbolo será remoldelado para as próximas versões, por enquanto não estará presente
+
 
 
