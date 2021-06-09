@@ -13,7 +13,7 @@ boa usabilidade em dispositivos móveis
 
 
 ### Requisitos
-- [x] Ser reponsivo para dispositivos móveis
+- [x] Ser responsivo para dispositivos móveis
 - [x] Seguir boas práticas de arquitetura de informação na construção das interfaces
 - [x] Possuir, no mínimo, três interfaces acessíveis a partir de algum mecanismo de navegação
 - [x] Possuir um esquema de cores e layout único com relação aos demais sistemas desenvolvidos pelos seus colegas de turma
