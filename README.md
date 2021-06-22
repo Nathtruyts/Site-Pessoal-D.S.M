@@ -28,7 +28,8 @@ boa usabilidade em dispositivos móveis
 Figma, CSS e HTML5
 
 ## Pastas
-* Pasta src/: arquvivos contendo todo o código fonte
+- Pasta src/: arquvivos contendo todo o código fonte
+  - Pasta media: arquivos de imagem do site
 
 ## Video explicativo
 Link para um vídeo explicativo do site: https://youtu.be/WcPOQqN4j5Q / https://www.youtube.com/watch?v=WcPOQqN4j5Q (link alternativo)
