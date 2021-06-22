@@ -35,14 +35,25 @@ Link para um vídeo explicativo do site: https://youtu.be/WcPOQqN4j5Q / https://
 
 ## Authors
 
-* **Nathan da Motta Truyts** - *Trabalho incial* - Github
+* **Nathan da Motta Truyts** - Github
 
-#### Atualização ver 2.0
-* Pastas com códigos antigos foram apagados e trocado pela pasta /src, com o novo código fonte
+## Atualização ver 2.0
+- Pastas com códigos antigos foram apagados e trocado pela pasta /src, com o novo código fonte
 
-* Layout foi modernizado, mantendo o esquema de cores e o design original do wireframe
+- Layout foi modernizado, mantendo o esquema de cores e o design original do wireframe
  
-*simbolo será remoldelado para as próximas versões, por enquanto não estará presente
+- simbolo será remoldelado para as próximas versões, por enquanto não estará presente
+
+### Atualização ver 3.0
+- imagens agora organizadas na pasta media
+
+- Simbolo único do trabalho remoldelado e adicionado
+
+- icones de contato adicionados
+
+
+
+
 
 
 
