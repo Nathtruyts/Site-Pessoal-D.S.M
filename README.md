@@ -52,7 +52,11 @@ Link para um vídeo explicativo do site: https://youtu.be/WcPOQqN4j5Q / https://
 
 - icones de contato adicionados
 
+- Bootstrap framework para imagens responsivas
 
+-Design mais responsivo no mobile
+
+-Icones reajustados
 
 
 
