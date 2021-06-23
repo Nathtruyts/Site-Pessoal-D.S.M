@@ -58,7 +58,8 @@ Link para um vídeo explicativo do site: https://youtu.be/WcPOQqN4j5Q / https://
 
 - Icones reajustados
 
-
+#### Novo video explicativo
+https://youtu.be/rH4XuNGcmLo
 
 
 
