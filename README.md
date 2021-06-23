@@ -54,9 +54,9 @@ Link para um vídeo explicativo do site: https://youtu.be/WcPOQqN4j5Q / https://
 
 - Bootstrap framework para imagens responsivas
 
--Design mais responsivo no mobile
+- Design mais responsivo no mobile
 
--Icones reajustados
+- Icones reajustados
 
 
 
